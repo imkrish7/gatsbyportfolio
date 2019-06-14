@@ -13,7 +13,7 @@ export default () =>{
                 <div className="main">
                         <div className="contact-text">
                             <div className="contactemail">
-                                <h1>Conatact Me</h1>
+                                <h1>Contact Me</h1>
                                 <ul>
                                     <li> <FaEnvelope /> <em>singhkrishk07@gamil.com</em></li>
                                     <li> <FaTwitter /> < a href = "https://twitter.com/dr_rackham" target="_blank" rel="noopener noreferrer">@dr_rackham</a></li>
