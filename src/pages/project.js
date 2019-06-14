@@ -5,7 +5,7 @@ import Header from '../components/navbar'
 import Head from '../components/head'
 
 import '../styles/project.sass'
-import Modal from './modal'
+import Modal from '../components/modal'
 
 
 export const query = graphql`

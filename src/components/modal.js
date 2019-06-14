@@ -1,13 +1,14 @@
 import React from 'react'
 import '../styles/modal.sass'
 
-import Image from '../components/multiple'
+import Image from './multiple'
 export default (props) =>{
     const handler = (e) =>{
     
       props.set(false)
     } 
  
+    console.log(props.project)
     return (
         
             <div className="modal"  id="modal" style= {{display: props.show ? "flex" : "none"}}>
