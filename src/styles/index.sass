@@ -1,12 +1,7 @@
 * 
     box-sizing: border-box 
 
-@mixin transition 
-        .nosmile 
-            display: none 
-        .smile 
-            display: block
-            opacity: 1
+
 .home 
     height: calc(100vh - 80px)
     width: 100%
@@ -28,9 +23,7 @@
             width: 460px
             margin: 0 50px
             transform: opacity 1s linear
-            
-    .hero-image:hover 
-            @include transition        
+                    
 @media (max-width: 1060px)
     .home 
         .hero 
@@ -63,5 +56,11 @@
                     width: 100%
 @media (max-width: 400px)
     .home 
+        .hero 
+            font-size: 1rem
         .hero-image 
-            width: 300px
+            width: 100%
+            svg 
+                width: 95%
+                height: 100%
+        

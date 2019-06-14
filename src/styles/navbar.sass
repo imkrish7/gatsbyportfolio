@@ -148,6 +148,32 @@ header
        
 @media (max-width: 400px)
     header
+        height: 50px
+        .logo
+            svg
+                width: 40px
+                height: 40px
         nav
+            top: 50px
+            height: calc(100vh - 50px)
             z-index: 1
-            width: 100vw
+            width: 100vw 
+        .menu-container
+            .menu 
+                width: 30px
+                height: 30px
+                .hamburgerIcon,.hamburgerIcon::after,.hamburgerIcon::before
+                    height: 2px
+                .hamburgerIcon::before
+                    top: -10px
+                .hamburgerIcon::after
+                    bottom: -10px
+                .open 
+                    transform: translate(-50%,-50%) rotate(135deg)    
+                    &::before
+                        top: 0
+                        transform: translateX(100%) rotate(-90deg)
+                    &::after 
+                        bottom: 0
+                        right: 0
+                        transform: translateX(-100%) rotate(-90deg)
