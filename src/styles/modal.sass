@@ -1,0 +1,37 @@
+* 
+    box-sizing: border-box
+
+.modal 
+    position: fixed
+    height: 100%
+    margin-top: -80px
+    width: 100vw 
+    z-index: 1
+    display: none
+    justify-content: center
+    align-content: center
+    overflow: auto
+    background-color: rgba(0,0,0,0.3)
+    .modal-content 
+        background-color: #fff 
+        padding: 20px
+        width: 70%
+        margin: auto
+        box-shadow: 0px 5px 8px 0 rgba(0,0,0,0.8)
+        color: #c64848
+        div 
+            margin: 10px 0
+            a 
+                text-decoration: none 
+                color: #c64848
+                &:hover 
+                    color: #555555
+        .close-button 
+            float: right 
+            color: #ccc
+            font-size: 30px
+            font-weight: bolder
+            &:hover 
+                color: #000
+                text-decoration: none 
+                cursor: pointer

@@ -1,0 +1,68 @@
+* 
+    box-sizing: border-box
+
+.about 
+    
+    height: calc(100vh - 80px)
+    width: 100%
+    display: flex 
+    justify-content: center
+    flex-wrap: wrap
+    .about-content 
+        width: 65%
+        margin: auto
+        display: grid
+        
+        grid-template-columns:  1fr 1fr
+        justify-content: center
+        align-items: center
+        grid-gap: 10px
+        box-shadow: 0px 0px 10px 0px #a6a5a5
+        padding: 20px
+        .image 
+           width: 100%
+           margin-bottom: -110px
+            
+        .info-text 
+            display: flex 
+            justify-content: center
+            flex-wrap: wrap 
+            align-items: center
+            font-size: 20px
+            padding: 50px
+            margin-right: -100px
+            box-shadow: 0px 0px 6px 1px #ccc
+            background: #fff
+            color: #db4c4c
+            opacity: 0
+            animation: fade-in 700ms normal forwards
+        @keyframes fade-in 
+                to 
+                    opacity: 1    
+
+@media (max-width: 900px)
+    .about
+        .about-content 
+            box-shadow: none
+            grid-template-rows: repeat(auto-fit, 350px) 
+            grid-template-columns: 1fr
+            .info-text
+                margin: 0
+                box-shadow: none
+                display: flex 
+                flex-wrap: wrap
+                padding: 0
+                background: none
+
+@media (max-width: 350px )
+    .about
+        .about-content
+            width: 100vw
+            padding: 0
+            .image 
+                width: 100%
+            .info-text 
+                width: 100%
+                margin: 0
+                font-size: 15px
+                padding: 5px

@@ -1,0 +1,164 @@
+[{
+        "title": "Anonymous Message Board",
+        "imageLink": "anonymousmessageboard.png",
+        "description": "This project user can create a board and add message to board where user can have discussion on that particuler thread message. User can add reply to bord and delete board as well",
+        "type": "Express App",
+        "projectLink": "https://imkrish7-anonymousmessageboard.glitch.me/"
+    }, {
+        "title": "Dr. APJ Kalam Tribute Page",
+        "imageLink": "APJ.png",
+        "description": "It is a tribute page for India's greatest beloved son late Dr.APJ Abdul Kalam aka 'Missile Man'. It is a responsive webpage using bootstrap.",
+        "type": "Responsive Page",
+        "projectLink": "https://codepen.io/Dr_rackham/project/editor/XNKYRL"
+    },
+    {
+        "title": "Bar Chart Graph ",
+        "imageLink": "BarChart.png",
+        "description": "This graph based project use USA GDP data to create data and a user can hover over bar and see the related data",
+        "type": "D3js Project",
+        "projectLink": "https://github.com/imkrish7/GrossDomesticProduct"
+    },
+    {
+        "title": "Calculator",
+        "imageLink": "calculator.png",
+        "description": "This project is a simple calculator  where a user can perform all arithmatic operation on number ",
+        "type": "React App",
+        "projectLink": "https://calculator0.herokuapp.com/"
+    },
+    {
+        "title": "Drum Machine",
+        "imageLink": "drummachine.png",
+        "description": "This project is a drum machine where user can press shown letters on given board  and create some funky music for fun",
+        "type": "React App",
+        "projectLink": "https://drummachine0.herokuapp.com/"
+    }, {
+        "title": "Kerla Language School Data",
+        "imageLink": "dv.png",
+        "description": "In this project a three chart was produced using chart Js Library using Kerla School data where student learning number of langauges",
+        "type": "Chartjs Project",
+        "projectLink": "https://github.com/imkrish7/webDevelopment/tree/master/data-visulization"
+    }, {
+        "title": "Exercise Tracker ",
+        "imageLink": "exercisetracker.png",
+        "description": "In this project user can Perform CRUD operations like add exercise and delete and edit as well",
+        "type": "API and Microservices Project ",
+        "projectLink": "https://imkrish7-exercisetracker.glitch.me/"
+    }, {
+        "title": "Header Parser ",
+        "imageLink": "headerparser.png",
+        "description": "This project show users ip address ",
+        "type": "API and Microservices Project",
+        "projectLink": "https://imkrish7-headerparser.glitch.me/"
+    },
+    {
+        "title": "Heat Map Graph ",
+        "imageLink": "heatmap.png",
+        "description": "This project uses Monthly Global Land-Surface Temperature and plot a heat Graph using D3js",
+        "type": "D3 JS",
+        "projectLink": "https://github.com/imkrish7/heatmap"
+    }, {
+        "title": " Metric Imerial Converter ",
+        "imageLink": "imperial.png",
+        "description": "In this project user can use as metric converter like pound to kg mile to km etc",
+        "type": "Information Security and Quality Assurance Project",
+        "projectLink": "https://imkrish7-imperial.glitch.me/"
+    }, {
+        "title": "Issue Tracker",
+        "imageLink": "issuetracker.png",
+        "description": "In this user can start a issue and check the status as well",
+        "type": "Information Security and Quality Assurance Project",
+        "projectLink": "https://imkrish7-imperial.glitch.me/"
+    }, {
+        "title": "Markdown Previewer",
+        "imageLink": "markdown.png",
+        "description": "This project is markdown previewer similer like github markdown using markedjs",
+        "type": "React App",
+        "projectLink": "https://github.com/imkrish7/markdown"
+    },
+    {
+        "title": "Pomodor Clock",
+        "imageLink": "pomodor.png",
+        "description": "Its simple pomodor Clock",
+        "type": "React App",
+        "projectLink": "https://calculator0.herokuapp.com/"
+    }, {
+        "title": "Random Quote Machine",
+        "imageLink": "quotemachine.png",
+        "description": "It is a quotemachine which use mashape famous quote API.In which, a user can click a button to show him a new random quote and press a button to tweet out a quote.",
+        "type": "React App",
+        "projectLink": "https://github.com/imkrish7/quote"
+    }, {
+        "title": "Stock Price Checker",
+        "imageLink": "stockprice.png",
+        "description": "Stock Price Checker where user can check the price and can add one like per ip address and can compare two stock prices based on likes ",
+        "type": "Information Security and Quality Assurance Project",
+        "projectLink": "https://imkrish7-stockprice.glitch.me/"
+    }, {
+        "title": "TromBomes",
+        "imageLink": "tb.png",
+        "description": "It is a trombom landing page",
+        "type": "Responsive",
+        "projectLink": "https://github.com/imkrish7/productlandigpage"
+    }, {
+        "title": "Technical Documentation",
+        "imageLink": "technical Documentation.png",
+        "description": "It is simple javascript documentation responsive page.",
+        "type": "Responsive",
+        "projectLink": "https://github.com/imkrish7/technicaldocumentation"
+    }, {
+        "title": "Time Stamp",
+        "imageLink": "timestamp.png",
+        "description": "In this project user can enter a date to check whether date is valid or not",
+        "type": "Microservice Project ",
+        "projectLink": "https://halved-rat.glitch.me/"
+    }, {
+        "title": "Twitch API",
+        "imageLink": "TwitchApi.png",
+        "description": "In this project twitch api used to see where some specific channel is alive or not",
+        "type": "Api Call",
+        "projectLink": "https://github.com/imkrish7/technicaldocumentation"
+    }, {
+        "title": "Uploade File",
+        "imageLink": "uploadfile.png",
+        "description": "In this microservice a user can upload file to database",
+        "type": "Microservice Project",
+        "projectLink": "https://imkrish7-uploadfile-2.glitch.me/"
+    }, {
+        "title": "URL Shortener ",
+        "imageLink": "urlshortener.png",
+        "description": "In this user can add url to database which got shortened if it is valid url",
+        "type": "Microservice",
+        "projectLink": "https://imkrish7-urlshortener-1.glitch.me/"
+    }, {
+        "title": "WikiPedia Search ",
+        "imageLink": "wikipedia.png",
+        "description": "Wikipedia API",
+        "type": "API call",
+        "projectLink": "https://codepen.io/Dr_rackham/full/odjbzN/"
+    }, {
+        "title": "Weather App ",
+        "imageLink": "weatherApp.png",
+        "description": " Real Time weather checking",
+        "type": "API call",
+        "projectLink": "https://codepen.io/Dr_rackham/full/qYdrMN/"
+    }, {
+        "title": "Runnder Data Graph ",
+        "imageLink": "RunnerData.png",
+        "description": " Runner Data Graph",
+        "type": "API call",
+        "projectLink": "https://github.com/imkrish7/scatter/"
+    }, {
+        "title": "Personal Library ",
+        "imageLink": "library.png",
+        "description": " It is simple personal library web app where you can add book and comment on book and delete the comment and book ass well",
+        "type": "Information Security and Quality Assurance Project",
+        "projectLink": "https://imkrish7-library.glitch.me/"
+    },{
+        "title": "Portfolio",
+        "imageLink": "portfolio.png",
+        "description": " Portfolio",
+        "type": "Responive React app",
+        "projectLink": "https://imkrish7-library.glitch.me/"
+    }
+
+]

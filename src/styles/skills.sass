@@ -1,0 +1,31 @@
+* 
+    box-sizing: border-box
+
+.container 
+    width: 100%
+    height: calc(100vh - 80px)
+    display: flex
+    justify-content: center
+    align-items: center
+    flex-wrap: wrap
+    ul 
+        list-syle: none
+        display: flex
+        justify-content: center
+        flex-wrap: wrap
+        li
+            width: 100px
+            height: 100px
+            list-style-type: none
+            margin: 20px
+            animation: spin 3s linear infinite
+            display: inline-block
+            @keyframes spin
+                to
+                    transform: rotate(360deg)
+@media (max-width: 750px)
+    .container 
+        ul 
+           
+            li 
+                
