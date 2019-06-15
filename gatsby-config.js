@@ -32,8 +32,8 @@ module.exports = {
         name: `Portfolio`,
         short_name: `Krishna`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#ecf0f1`,
+        theme_color: `#ecf0f1`,
         display: `minimal-ui`,
         icon: `src/images/logo.svg`, // This path is relative to the root of the site.
       },

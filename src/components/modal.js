@@ -7,8 +7,6 @@ export default (props) =>{
     
       props.set(false)
     } 
- 
-    console.log(props.project)
     return (
         
             <div className="modal"  id="modal" style= {{display: props.show ? "flex" : "none"}}>

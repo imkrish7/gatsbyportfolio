@@ -27,7 +27,7 @@ export const query = graphql`
 export default (props) =>{
      const [ visible,setVisible ] = useState(false)
      const [ index,setIndex ] = useState(0)
-     // console.log(props.data.allProjectJson.edges)
+  
  return (
      <div>
           <Head title="Project"/>

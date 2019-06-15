@@ -13,7 +13,7 @@ const header = () => {
     return (
       <header>
           <div className="logo">
-              <LOGO />
+              <Link to="/"><LOGO /></Link>
           </div>
            < div className = "menu-container"
            onClick = { handler }>
