@@ -16,9 +16,9 @@ const IndexPage = () => {
         <div className="home">
             
             <div className="hero">
-                <h1>Hi....</h1>
+                <h1>Hi... I'm</h1> 
                 <h1>Krishna Kamal Singh Patel</h1>
-                <h2>Full Stack Web Develeoper</h2>
+                <h2>Full Stack Web Developer</h2>
             </div>
             < div className = "hero-image">
                 <Boy />

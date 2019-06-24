@@ -17,7 +17,7 @@ const About = () =>{
                     
             </div>
             <div className="info-text">
-                Hello, My Name is Krishna Kamal.I had done Computer Science Engineering from NIT Nagaland in 2017.I am full stack web developer and I had done some project as well so give look in projects.
+                Hello, My Name is Krishna Kamal. I had done Computer Science Engineering from NIT Nagaland in 2017. I am full stack web developer and I had done some project as well so give look in projects.
             </div>
         </div>
         </div>
