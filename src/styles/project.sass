@@ -1,6 +1,9 @@
 * 
     box-sizing: border-box
-   
+
+.projects
+    // position: absolute
+    top: 100px
     .projectlist 
         display: grid
         list-style: none
@@ -51,8 +54,10 @@
         .projectlist
             grid-template-rows: 330px 
 @media (max-width: 450px)
-    .projectlist 
-        margin: 7px 
-        grid-template-columns: repeat(auto-fit,minmax(200px,1fr))
-        li 
+    .projects
+        top: 80px
+        .projectlist 
+            margin: 7px 
+            grid-template-columns: repeat(auto-fit,minmax(200px,1fr))
+            
             
