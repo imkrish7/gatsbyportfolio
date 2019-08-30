@@ -80,7 +80,7 @@
         "imageLink": "pomodor.png",
         "description": "Its simple pomodor Clock",
         "type": "React App",
-        "projectLink": "https://calculator0.herokuapp.com/"
+        "projectLink": "https://newpomodoro.herokuapp.com/"
     }, {
         "title": "Random Quote Machine",
         "imageLink": "quotemachine.png",
